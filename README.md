@@ -1,14 +1,16 @@
 # Blockiy Cardano Tools
 
-![Blockiy](https://www.blockiy.com/wp-content/uploads/2026/07/Blockiy-Logo.png)
+![Blockiy](https://www.blockiy.com/wp-content/uploads/2026/03/wide.jpg)
 
-A collection of free and open-source Cardano tools developed by **Blockiy** for stake pool operators, delegators, developers, and the Cardano community.
+A collection of free Cardano tools and open-source resources developed by **Blockiy** for stake pool operators, delegators, developers, and the Cardano community.
 
-Our goal is to build reliable, easy-to-use utilities that help users better understand and interact with the Cardano ecosystem.
+Our mission is to build reliable, easy-to-use utilities that make the Cardano ecosystem more accessible for everyone.
 
-## 🌐 Live Tools
+---
 
-| Tool | Live Demo |
+## 🌐 Cardano Tools
+
+| Tool | View Tool |
 |------|-----------|
 | Cardano Pool KEY / KES Expiry Checker | https://www.blockiy.com/cardano-pool-key-expiry-checker/ |
 | Cardano Pool ID ↔ HEX Converter | https://www.blockiy.com/cardano-pool-id-hex-converter/ |
@@ -17,18 +19,22 @@ Our goal is to build reliable, easy-to-use utilities that help users better unde
 | Cardano Fear & Greed Index | https://www.blockiy.com/cardano-fear-and-greed-index/ |
 | Cardano Whale Tracker | https://www.blockiy.com/whale-tracker/ |
 
+---
+
 ## 🚀 Features
 
-- Free Cardano utilities
-- Designed for stake pool operators
-- Helpful for delegators and ADA holders
+- Free Cardano tools
+- Designed for stake pool operators and delegators
+- Educational resources for the Cardano community
 - WordPress-compatible implementations
-- Open-source examples
-- Community-driven development
+- Open-source examples and documentation
+- Community-focused development
+
+---
 
 ## 📂 Repository Structure
 
-```
+```text
 tools/
 ├── pool-key-expiry-checker/
 ├── pool-id-hex-converter/
@@ -38,26 +44,34 @@ tools/
 └── whale-tracker/
 ```
 
-## 🌍 Website
+---
+
+## 🌍 Official Website
 
 https://www.blockiy.com
+
+---
 
 ## 📖 Documentation
 
-Each tool contains its own documentation and usage instructions.
+Each tool includes its own documentation, usage guide, and related resources.
+
+For the latest versions and live demonstrations, please visit the official Blockiy website.
+
+---
 
 ## ❤️ About Blockiy
 
-Blockiy is building tools, educational resources, verified stake pool services, and infrastructure to make the Cardano ecosystem more accessible for everyone.
+Blockiy is building tools, educational content, verified stake pool services, and infrastructure to support the growth of the Cardano ecosystem.
 
-Website:
+### Website
 https://www.blockiy.com
 
-Twitter (X):
+### Twitter (X)
 https://x.com/blockiy_team
 
-Telegram:
+### Telegram
 https://t.me/blockiy_official
 
-GitHub:
+### GitHub
 https://github.com/blockiy
