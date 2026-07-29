@@ -2,7 +2,7 @@
 
 ![Blockiy](https://www.blockiy.com/wp-content/uploads/2026/03/wide.jpg)
 
-A collection of free Cardano tools and open-source resources developed by **Blockiy** for stake pool operators, delegators, developers, and the Cardano community.
+A collection of free Cardano tools, public documentation, and community resources developed by **Blockiy** for stake pool operators, delegators, developers, and the Cardano community.
 
 Our mission is to build reliable, easy-to-use utilities that make the Cardano ecosystem more accessible for everyone.
 
@@ -10,39 +10,51 @@ Our mission is to build reliable, easy-to-use utilities that make the Cardano ec
 
 ## 🌐 Cardano Tools
 
-| Tool | View Tool |
-|------|-----------|
+| Tool                                  | View Tool                                                |
+| ------------------------------------- | -------------------------------------------------------- |
 | Cardano Pool KEY / KES Expiry Checker | https://www.blockiy.com/cardano-pool-key-expiry-checker/ |
-| Cardano Pool ID ↔ HEX Converter | https://www.blockiy.com/cardano-pool-id-hex-converter/ |
-| Cardano Epoch Calendar | https://www.blockiy.com/cardano-epoch-calendar-2026/ |
-| Cardano Staking Calculator | https://www.blockiy.com/cardano-staking-calculator/ |
-| Cardano Fear & Greed Index | https://www.blockiy.com/cardano-fear-and-greed-index/ |
-| Cardano Whale Tracker | https://www.blockiy.com/whale-tracker/ |
+| Cardano Pool ID ↔ HEX Converter       | https://www.blockiy.com/cardano-pool-id-hex-converter/   |
+| Cardano Epoch Calendar                | https://www.blockiy.com/cardano-epoch-calendar-2026/     |
+| Cardano Staking Calculator            | https://www.blockiy.com/cardano-staking-calculator/      |
+| Cardano Fear & Greed Index            | https://www.blockiy.com/cardano-fear-and-greed-index/    |
+| Cardano Whale Tracker                 | https://www.blockiy.com/whale-tracker/                   |
+| Cardano Pool Intelligence             | https://www.blockiy.com/cardano-pool-intelligence/       |
 
 ---
 
 ## 🚀 Features
 
-- Free Cardano tools
-- Designed for stake pool operators and delegators
-- Educational resources for the Cardano community
-- WordPress-compatible implementations
-- Open-source examples and documentation
-- Community-focused development
+* Free Cardano tools
+* Pool monitoring resources for stake pool operators
+* Designed for stake pool operators and delegators
+* Educational resources for the Cardano community
+* WordPress-compatible implementations
+* Public documentation and practical examples
+* Community-focused development
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-tools/
-├── pool-key-expiry-checker/
-├── pool-id-hex-converter/
-├── epoch-calendar/
-├── staking-calculator/
-├── fear-and-greed-index/
-└── whale-tracker/
+pool-key-expiry-checker/
+pool-id-hex-converter/
+epoch-calendar/
+staking-calculator/
+fear-and-greed-index/
+whale-tracker/
+pool-intelligence/
 ```
+
+---
+
+## 🛠️ Professional Services
+
+| Service                               | Learn More                                        |
+| ------------------------------------- | ------------------------------------------------- |
+| Professional Cardano Stake Pool Setup | https://www.blockiy.com/cardano-stake-pool-setup/ |
+
+Blockiy provides professional Cardano stake pool setup services for operators who need secure, production-ready infrastructure, practical operational guidance, and ongoing support.
 
 ---
 
@@ -65,13 +77,17 @@ For the latest versions and live demonstrations, please visit the official Block
 Blockiy is building tools, educational content, verified stake pool services, and infrastructure to support the growth of the Cardano ecosystem.
 
 ### Website
+
 https://www.blockiy.com
 
 ### Twitter (X)
+
 https://x.com/blockiy_team
 
 ### Telegram
+
 https://t.me/blockiy_official
 
 ### GitHub
+
 https://github.com/blockiy
